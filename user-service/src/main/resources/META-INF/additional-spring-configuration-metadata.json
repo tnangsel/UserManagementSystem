@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "application.security.jwt.secret-key",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.jwt.secret-key'"
+  },
+  {
+    "name": "application.security.jwt.refresh-token.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.jwt.refresh-token.expiration'"
+  },
+  {
+    "name": "application.security.jwt.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.jwt.expiration'"
+  },
+  {
+    "name": "application.security.jwt.secret-key",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.jwt.secret-key'"
+  },
+  {
+    "name": "application.security.twilio.TWILIO_-aCCOUNT_-sID",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.twilio.TWILIO_-aCCOUNT_-sID'"
+  },
+  {
+    "name": "application.security.twilio.TWILIO_OUTGOING_SMS_NUMBER",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.twilio.TWILIO_OUTGOING_SMS_NUMBER'"
+  },
+  {
+    "name": "application.security.twilio.TWILIO_AUTH_TOKEN",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.twilio.TWILIO_AUTH_TOKEN'"
+  }
+]}
